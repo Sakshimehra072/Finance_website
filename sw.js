@@ -6,7 +6,7 @@ const ASSETS_TO_CACHE = [
     '/about.html',
     '/contact.html',
     '/one-page.html',
-    '/services.html',
+   
     '/vendor/bootstrap/css/bootstrap.min.css',
     '/vendor/bootstrap/css/bootstrap.css',
     '/vendor/bootstrap/css/bootstrap.css.map',
